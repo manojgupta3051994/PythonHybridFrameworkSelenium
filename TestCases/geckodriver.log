@@ -1,0 +1,46 @@
+1634972006503	geckodriver	INFO	Listening on 127.0.0.1:54681
+1634972009630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Manoj\\AppData\\Local\\Temp\\rust_mozprofileQWyicp"
+1634972022122	Marionette	INFO	Listening on port 54691
+1634972022616	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634972022681	Marionette	DEBUG	[6442450945] Frame script loaded
+1634972022747	Marionette	DEBUG	[6442450945] Frame script registered
+1634972023238	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1634972026195	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1634972027344	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+1634972027352	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+1634972027376	Marionette	INFO	Stopped listening on port 54691
+[Parent 16896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_c[Child 1hannel_win.cc, line 346
+791[Ch2i, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil[Parent 16896, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1072, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1072[GPU 13556, Chrome_ChildThread] WARNING: pipe error: 109: f
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1634972029711	geckodriver	INFO	Listening on 127.0.0.1:54732
+1634972032689	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Manoj\\AppData\\Local\\Temp\\rust_mozprofileeAudlF"
+1634972038521	Marionette	INFO	Listening on port 54742
+1634972038971	Marionette	WARN	TLS certificate errors will be ignored for this session
+1634972039014	Marionette	DEBUG	[6442450945] Frame script loaded
+1634972039017	Marionette	DEBUG	[6442450945] Frame script registered
+1634972039033	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1634972041241	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1634972041737	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+1634972041739	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+1634972042585	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1634972042744	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+1634972044784	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+1634972044785	Marionette	DEBUG	[6442450945] Received DOM event unload for https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F
+1634972046952	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://admin-demo.nopcommerce.com/admin/
+1634972048112	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://admin-demo.nopcommerce.com/admin/
+1634972048142	Marionette	INFO	Stopped listening on port 54742
+[Parent 6064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7036, Chrome_Child[Parent 6064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15544, [Parent 6064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child [GPU 193
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
